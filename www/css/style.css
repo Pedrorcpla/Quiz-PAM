@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Barlow', sans-serif;
+}
+body{
+  overflow-x: hidden;
+}
+.topo{
+  background: #f2761e;
+  padding: 4% 0;
+}
+.corpo h4{
+  margin-top: 5%;
+  margin-bottom: 7%;
+}
+.botao{
+  margin-top: 10%;
+  background: #f2761e;
+}
+.final{
+  margin-top: 5%;
+  color: #f2761e;
+}
+
